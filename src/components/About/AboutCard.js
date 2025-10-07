@@ -17,7 +17,7 @@ function AboutCard() {
             <b className="purple">Angular</b>.
             <br />
             <br />
-            I work confidently with both{" "}
+            <h5>I work confidently with both</h5>{" "}
             <b className="purple">SQL Server</b> and{" "}
             <b className="purple">PostgreSQL</b> databases, focusing on clean architecture,
             performance, and best coding practices.
